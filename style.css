@@ -9,8 +9,8 @@ body {
     justify-content: center;
     flex-direction: column;
     height: 100vh;
-    background-color: white;
-    color: black;
+    background-color: black;
+    color: white;
 }
 
 
@@ -35,9 +35,9 @@ body {
 }
 
 #btn {
-    background-color: white;
-    border: 2px solid black;
-    color: black;
+    background-color: black;
+    border: 2px solid white;
+    color: white;
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
